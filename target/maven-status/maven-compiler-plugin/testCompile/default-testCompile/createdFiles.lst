@@ -1,0 +1,3 @@
+com\testcomp\employee\EmployeeManagementApplicationTest.class
+com\testcomp\employee\service\EmployeeServiceTest.class
+com\testcomp\employee\controller\EmployeeControllerTest.class
